@@ -3,8 +3,6 @@ import Header from '../components/header';
 import Menu from '../components/menu';
 import FormUser from '../components/formuser';
 
-
-
 const Home = () => {
 
     const [selectBtn, setSelectBtn]=useState(null);
