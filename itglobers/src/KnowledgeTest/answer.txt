@@ -1,0 +1,23 @@
+
+Pregunta 1.
+ la respuesta a la función es c. [7,8,8,-1]
+
+Pregunta 2.
+ la respuesta a la expresión regular es /^[A-Z][^.?!]*[.?!]$/
+
+Pregunta 3.
+  la resuesta es c. El algoritmo posee un bug, por lo que retornará un error
+
+Pregunta 4.
+  No me da ninguna de las opciones que estan visibles, me da es:   312345
+
+pregunta 5.
+
+b. El DOM no ha cargado o no ha terminado de cargar todos los objetos y contenidos, por lo
+que debe hacer uso del evento document.ready o de un evento onload.
+
+Pregunta 6.
+
+    No conozco el sistema VTEX pero lo que yo haria seria consultar con un metodo "push" si el usuario ya existe en
+    la base de datos... Si existe tomaria la validación correspondiente, si no existe pasaría a una pantalla de
+    registro
