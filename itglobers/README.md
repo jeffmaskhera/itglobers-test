@@ -1,12 +1,23 @@
-# Getting Started with Create React App
+# Instalar aplicacion
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Posicionarse dentro de la carpeta itglobers que contiene el package.json y hacer npm install 
 
-## Available Scripts
+## Correr la aplicacion
 
-In the project directory, you can run:
+Posicionarse dentro de la carpeta itglobers y con la consola hacer npm start
 
-### `npm start`
+### Dependencias instaladas
+
+react-router-dom
+react-animated-css
+
+
+
+
+
+### siguiente información pertenece al codigo de react
+
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
