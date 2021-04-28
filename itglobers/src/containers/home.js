@@ -22,7 +22,6 @@ const Home = () => {
                                 <p className="text-center">Hola, bienvenido, sabemos que quieres viajar con <strong>{selectBtn},</strong> por favor diligencia el siguiente formulario</p>
                                 <FormUser/>
                             </div>
-
                             :
                             undefined
                     }
