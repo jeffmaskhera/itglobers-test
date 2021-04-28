@@ -1,0 +1,32 @@
+
+.head {
+    height: 90px;
+    box-shadow: 1px 0 10px rgb(0 0 0 / 10%);
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 5;
+    background: #ffffff;
+}
+
+.hspace {
+    height: 90px;
+}
+
+.pos-logo {
+    position: absolute;
+    left: 20px;
+    top: 0;
+    bottom: 0;
+    display: grid;
+    align-items: center;
+}
+
+.logo {
+    width: 80px;
+    height: auto;
+}
